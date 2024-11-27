@@ -1,0 +1,7 @@
+.navbar-content>a {
+    text-decoration: none;
+    text-align: center;
+}
+.navbar-content>a:hover {
+    border-bottom: 1px solid #654321;
+}
